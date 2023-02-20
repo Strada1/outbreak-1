@@ -1,0 +1,154 @@
+{
+  "company": {
+    "more.tv": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/72930561?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": ["unit", "snapshot"],
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "ООО Дельтасофт": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/77223685?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": "",
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "Digital Partners Global": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/71632379?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": "",
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "ООО НТ Прогресс": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/72731102?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": "",
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "ООО Лаборатория Безопасных Систем": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/77206191?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": ["usability", "UX"],
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "Signal": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/77233130?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": [],
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "ООО Programmatic Group": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/76716633?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": ["ajax", "SWR", "CORS"],
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "BIV": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/76663349?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": ["GraphQL", "unit-тесты"],
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "ITentika": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/75946664?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": ["UI Kit", "playwright"],
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "ЗАО НОРСИ-ТРАНС": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/75946664?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": ["UI Kit", "playwright"],
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "ООО Радюшин и компания": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/77213895?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": ["Jest + React Testing Library / Cypress"],
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "ООО Регнанс Групп": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/77204168?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": ["Unit тестов"],
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "DeepVoice": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/76393849?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": ["openapi/swagger"],
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "ИП Глущенко Николай Юрьевич": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/77222455?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": ["CI/CD"],
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "ООО Дельта Софт Групп": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/75608406?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": ["Wordpress"],
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "ЗАО Сервис-Газификация": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/76656180?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": ["mobx"],
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "АО Рамакс Интернейшнл": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/71634890?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": ["ООП"],
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "Byndyusoft": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/76586459?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": [],
+      "status": "to do",
+      "lastUpdate": "20.02.23"
+    },
+    "HR Prime": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/77219643?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": [],
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "Ippon Technologies": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/75765634?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": [],
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "Verno.digital": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/77226569?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": [],
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "Инфомаксимум": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/36954047?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": ["SPA"],
+      "status": "to do",
+      "lastUpdate": "20.02.23"
+    },
+    "ЗАО ИСТ": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/77077928?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": [],
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "Элекард": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/76031695?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": [],
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    },
+    "iSpring": {
+      "vacancyLink": "https://bugulma.hh.ru/vacancy/77068633?from=vacancy_search_list&query=Frontend",
+      "missingKnowledge": ["юнит тесты"],
+      "status": "wait",
+      "lastUpdate": "20.02.23"
+    }
+  }
+}
