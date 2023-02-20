@@ -1,0 +1,232 @@
+[
+    {
+        "company": "СБЕРКОРУС",
+        "vacancyLink": "https://hh.ru/vacancy/76865782?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": [
+            "Умеренное умение верстать адаптивно и кроссбраузерно",
+            "REST"
+        ],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    },
+    {
+        "company": "MODELTECH",
+        "vacancyLink": "https://hh.ru/vacancy/76151325?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": [
+            "typescript",
+            "ormik + yup",
+            "react testing library",
+            "socket"
+        ],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    },
+
+    {
+        "company": "FINCH",
+        "vacancyLink": "https://hh.ru/vacancy/76160335?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["Sass"],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    },
+    {
+        "company": "СБЕР (ООО еАптека)",
+        "vacancyLink": "https://hh.ru/vacancy/77211342?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["Agile", "TypeScript"],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    },
+    {
+        "company": "ООО Клауд Сет",
+        "vacancyLink": "https://hh.ru/vacancy/76870406?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["Английский язык", "Figma"],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    },
+    {
+        "company": "ООО Группа Лоджик Старс",
+        "vacancyLink": "https://hh.ru/vacancy/76842228?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["TypeScript", "Bootstrap", "GitLab"],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    },
+    {
+        "company": "Enjoypro",
+        "vacancyLink": "https://hh.ru/vacancy/76390139?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["WebSockets", "TypeScript"],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    },
+    {
+        "company": "ООО Гросссофт",
+        "vacancyLink": "https://hh.ru/vacancy/77134879?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["SPA", "TypeScript"],
+        "status": true,
+        "lastUpdate": "17-02-2023"
+    },
+    {
+        "company": "Signal",
+        "vacancyLink": "https://hh.ru/vacancy/77233130?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["TypeScript", "Dockers"],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    },
+    {
+        "company": "АО Эшелон Технологии",
+        "vacancyLink": "https://hh.ru/vacancy/77207112?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["TypeScript"],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    },
+    {
+        "company": "Call to Visit",
+        "vacancyLink": "https://hh.ru/vacancy/77239210?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["SQL", "PHP", "Желание работать и развиваться"],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    },
+    {
+        "company": "ООО Инновационный центр КАМАЗ",
+        "vacancyLink": "https://hh.ru/vacancy/76939536?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["Docker", "Vue", "Svetle", "Handlebars"],
+        "status": true,
+        "lastUpdate": "19-02-2023"
+    },
+    {
+        "company": "Manpower",
+        "vacancyLink": "https://hh.ru/vacancy/77225168?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["TypeScript", "PostgreSQL"],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    },
+    {
+        "company": "СБЕР (ООО еАптека)",
+        "vacancyLink": "https://hh.ru/vacancy/77211508?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["Scrum", "TypeScript"],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    },
+    {
+        "company": "Uniteller",
+        "vacancyLink": "https://hh.ru/vacancy/76220716?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["docker"],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    },
+    {
+        "company": "Сбер. IT",
+        "vacancyLink": "https://hh.ru/vacancy/77211766?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["SOAP", "REST"],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    },
+    {
+        "company": "DeFi Team",
+        "vacancyLink": "https://hh.ru/vacancy/77131238?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["TypeScript", "легаси", "blockchain"],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    },
+    {
+        "company": "Caltat",
+        "vacancyLink": "https://hh.ru/vacancy/76539010?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["Canvas", "Axios", "TypeScript"],
+        "status": true,
+        "lastUpdate": "14-02-2023"
+    },
+    {
+        "company": "Компэл",
+        "vacancyLink": "https://hh.ru/vacancy/73808373?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["TypeScript", "Английский язык", "Webpack"],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    },
+    {
+        "company": "ООО НЬЮЭРАМЕДИА",
+        "vacancyLink": "https://hh.ru/vacancy/73078575?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["SSR", "LESS", "TypeScript", "Docker"],
+        "status": true,
+        "lastUpdate": "17-02-2023"
+    },
+    {
+        "company": "Сфера",
+        "vacancyLink": "https://hh.ru/vacancy/73716137?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["TypeScript", "CI"],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    },
+    {
+        "company": "ООО Сайгро",
+        "vacancyLink": "https://hh.ru/vacancy/76350602?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": [
+            "Английский — C1 — Продвинутый",
+            "firebase",
+            "TypeScript"
+        ],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    },
+    {
+        "company": "Сбер. IT",
+        "vacancyLink": "https://hh.ru/vacancy/74081795?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["Jest", "TypeScript"],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    },
+    {
+        "company": "ITentika",
+        "vacancyLink": "https://hh.ru/vacancy/75946664?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["TypeScript", "Webpack", "Figma"],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    },
+    {
+        "company": "ФГБНУ ФИЦ Почвенный Институт Имени В.В. Докучаева",
+        "vacancyLink": "https://hh.ru/vacancy/76977868?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["TypeScript", "MobX"],
+        "status": true,
+        "lastUpdate": "14-02-2023"
+    },
+    {
+        "company": "ООО Лаборатория Маркетинга",
+        "vacancyLink": "https://hh.ru/vacancy/77127312?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["MongoDB", "TypeScript", "Meteor"],
+        "status": true,
+        "lastUpdate": "17-02-2023"
+    },
+    {
+        "company": "more.tv",
+        "vacancyLink": "https://hh.ru/vacancy/72930561?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["TypeScript", "Webpack"],
+        "status": true,
+        "lastUpdate": "19-02-2023"
+    },
+    {
+        "company": "AdGuard",
+        "vacancyLink": "https://hh.ru/vacancy/76913359?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": [""],
+        "status": true,
+        "lastUpdate": "13-02-2023"
+    },
+    {
+        "company": "Иннова",
+        "vacancyLink": "https://hh.ru/vacancy/76767956?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["WebSocket", "Jest"],
+        "status": true,
+        "lastUpdate": "14-02-2023"
+    },
+    {
+        "company": "Альфа-Банк",
+        "vacancyLink": "https://hh.ru/vacancy/71474734?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": [""],
+        "status": true,
+        "lastUpdate": "13-02-2023"
+    },
+    {
+        "company": "FUN&SUN",
+        "vacancyLink": "https://hh.ru/vacancy/77145803?from=vacancy_search_list&query=frontend%20react%20developer",
+        "missingKnowledge": ["redux-saga"],
+        "status": true,
+        "lastUpdate": "20-02-2023"
+    }
+]
