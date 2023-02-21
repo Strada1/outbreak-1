@@ -1,0 +1,18 @@
+[
+	{
+		"skill": "Next.js",
+		"estimation": "20-24"
+	},
+	{
+		"skill": "ООП",
+		"estimation": "10"
+	},
+	{
+		"skill": "Node.js/Nest.js",
+		"estimation": "15"
+	},
+	{
+		"skill": "unit тесты",
+		"estimation": "10"
+	}
+]
