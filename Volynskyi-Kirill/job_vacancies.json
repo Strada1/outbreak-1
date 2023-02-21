@@ -1,0 +1,199 @@
+{
+  "vacancies": [
+    {
+      "company": "Basenji",
+      "vacancyLink": "https://jobs.dou.ua/companies/flyer-one-ventures/vacancies/227039/",
+      "missingKnowledge": [
+        "cross-platform and adaptive layout for the latest browsers"
+      ],
+      "status": "React Developer",
+      "lastUpadte": "17.02.2023",
+      "item": 1
+    },
+    {
+      "company": "Brighterly",
+      "vacancyLink": "https://jobs.dou.ua/companies/socialtech/vacancies/229423/",
+      "missingKnowledge": [
+        "3+ роки досвіду",
+        "Розуміння того, як працює життєвий цикл запиту HTTP;"
+      ],
+      "status": "Middle Frontend Developer",
+      "lastUpadte": "16.02.2023",
+      "item": 2
+    },
+    {
+      "company": "INSART",
+      "vacancyLink": "https://jobs.dou.ua/companies/insart/vacancies/208348/",
+      "missingKnowledge": [
+        "1 year+ ",
+        "Upper Intermediate English: able to participate in meetings with the client"
+      ],
+      "status": "Strong Junior Front-End (React) Developer",
+      "lastUpadte": "10.02.2023",
+      "item": 3
+    },
+    {
+      "company": "ProxyBand",
+      "vacancyLink": "https://www.work.ua/ru/jobs/4161137/#",
+      "missingKnowledge": ["адаптивна і крос-браузерна верстка проектів"],
+      "status": "Front-end React developer (Junior, Middle)",
+      "lastUpadte": "20.02.2023",
+      "item": 4
+    },
+    {
+      "company": "AGU",
+      "vacancyLink": "https://www.work.ua/ru/jobs/5050182/#",
+      "missingKnowledge": ["3+ years"],
+      "status": "Frontend Developer React (Next.Js)",
+      "lastUpadte": "19.02.2023",
+      "item": 5
+    },
+    {
+      "company": "Exonn",
+      "vacancyLink": "https://www.work.ua/ru/jobs/5013539/",
+      "missingKnowledge": [],
+      "status": "Front-end програміст",
+      "lastUpadte": "16.02.2023",
+      "item": 6
+    },
+    {
+      "company": "TANGRAM",
+      "vacancyLink": "https://www.work.ua/ru/jobs/4924947/",
+      "missingKnowledge": ["2+ роки"],
+      "status": "Front-End програміст (Angular, React, Vue)",
+      "lastUpadte": "15.02.2023",
+      "item": 7
+    },
+    {
+      "company": "Halo Lab ",
+      "vacancyLink": "https://www.work.ua/ru/jobs/4027992/",
+      "missingKnowledge": ["пет-проекти на гітхабі"],
+      "status": "React.js developer",
+      "lastUpadte": "20.02.2023",
+      "item": 8
+    },
+    {
+      "company": "New Recruiting Group (NRG)",
+      "vacancyLink": "https://rabota.ua/ua/company227455/vacancy9403356",
+      "missingKnowledge": [
+        "Досвід роботи від 3 років",
+        "Розуміння та практичне використання  методологій Agile",
+        "Досвід роботи з базами даних, напр. PostgreSQL",
+        "Глибоке розуміння SonarQube"
+      ],
+      "status": "Middle developer front-end react",
+      "lastUpadte": "20.02.2023",
+      "item": 9
+    },
+    {
+      "company": "UniLink",
+      "vacancyLink": "https://freelancehunt.com/job/junior-middle-frontend-developer-react/26037.html",
+      "missingKnowledge": [],
+      "status": "Junior/Middle Frontend-developer (React)",
+      "lastUpadte": "18.02.2023",
+      "item": 10
+    },
+    {
+      "company": "Numerical Technologies LTD",
+      "vacancyLink": "https://rabota.ua/ua/company802956/vacancy9404503",
+      "missingKnowledge": [
+        "Experience in Responsive, Cross-Browser Front-End creation",
+        "Intermediate level of English or higher"
+      ],
+      "status": "Front-end Developer (React)",
+      "lastUpadte": "14.02.2023",
+      "item": 11
+    },
+    {
+      "company": "SaM Solutions",
+      "vacancyLink": "https://jobs.dou.ua/companies/sam-solutions/vacancies/206028/",
+      "missingKnowledge": [],
+      "status": "Front-end разработчик Magento 2",
+      "lastUpadte": "11.02.2023",
+      "item": 12
+    },
+    {
+      "company": "NGO DSPH",
+      "vacancyLink": "https://ua.jooble.org/jdp/-5062010098704789408/React-Native-Developer-%D0%92%D1%96%D0%B4%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BE?ckey=react-developer&rgn=-1&pos=1&elckey=6943826932290384454&p=1&sid=-7186331743489787308&jobAge=181&relb=100&brelb=100&bscr=70469.28531303734&scr=70469.28531303734&searchTestGroup=1_910_1&iid=-4080574609927082119",
+      "missingKnowledge": [],
+      "status": "React Native Developer",
+      "lastUpadte": "13.02.2023",
+      "item": 13
+    },
+    {
+      "company": "IT Solutions Management International Pte. Ltd.",
+      "vacancyLink": "https://rabota.ua/ua/company11425714/vacancy8919217",
+      "missingKnowledge": [],
+      "status": "Front-End Developer",
+      "lastUpadte": "20.02.2023",
+      "item": 14
+    },
+    {
+      "company": "ДІЛА, Медична лабораторія",
+      "vacancyLink": "https://rabota.ua/ua/company762515/vacancy9394865",
+      "missingKnowledge": ["Комерційний досвід роботи від 2 років"],
+      "status": "Middle Front-end розробник",
+      "lastUpadte": "17.02.2023",
+      "item": 15
+    },
+    {
+      "company": "The Gravity Agency",
+      "vacancyLink": "https://rabota.ua/ua/company5158733/vacancy9393724",
+      "missingKnowledge": ["від 1 року", "версктка"],
+      "status": "Front-end developer",
+      "lastUpadte": "16.02.2023",
+      "item": 16
+    },
+    {
+      "company": "Secure Crowds",
+      "vacancyLink": "https://rabota.ua/ua/company10613217/vacancy9407452",
+      "missingKnowledge": [
+        "1-3 years",
+        "English level: Intermediate B1 or higher"
+      ],
+      "status": "Front-end Developer Vue.js (Remote)",
+      "lastUpadte": "16.02.2023",
+      "item": 17
+    },
+    {
+      "company": "Муль М. М., ФОП ",
+      "vacancyLink": "https://www.work.ua/ru/jobs/4283040/",
+      "missingKnowledge": [],
+      "status": "Junior Front-End Developer",
+      "lastUpadte": "21.01.2023",
+      "item": 18
+    },
+    {
+      "company": "PRO.people Recruitment Agency",
+      "vacancyLink": "https://rabota.ua/ua/company7772910/vacancy9410295",
+      "missingKnowledge": ["від 1 року", "тестовое"],
+      "status": "Strong Junior Frontend Developer (JavaScript)",
+      "lastUpadte": "20.02.2023",
+      "item": 19
+    },
+    {
+      "company": "PNN Soft",
+      "vacancyLink": "https://rabota.ua/ua/company816229/vacancy5872039",
+      "missingKnowledge": ["Knowledge of REST-full web services"],
+      "status": "Front-end Web developer",
+      "lastUpadte": "20.02.2023",
+      "item": 20
+    },
+    {
+      "company": "Рад Діджитал, ТОВ",
+      "vacancyLink": "https://rabota.ua/ua/company10183318/vacancy8461611",
+      "missingKnowledge": ["Знання і досвід верстки під Wordpress та інші CMS"],
+      "status": "Front-end Разработчик",
+      "lastUpadte": "20.02.2023",
+      "item": 21
+    },
+    {
+      "company": "Scandiweb",
+      "vacancyLink": "https://ua.jooble.org/jdp/7567719769177995273/Junior-Web-Developer-%D0%B7%D0%B0-%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%BD%D0%BE%D0%BC?ckey=junior+frontend+developer&rgn=-1&pos=1&elckey=-8254576840480654713&p=1&sid=-9094681140902884970&jobAge=692&relb=100&brelb=100&bscr=66203.95917579376&scr=66203.95917579376&searchTestGroup=1_910_1&iid=-2373830159867994968",
+      "missingKnowledge": [],
+      "status": "Junior Web Developer",
+      "lastUpadte": "22.01.2023",
+      "item": 22
+    }
+  ]
+}
