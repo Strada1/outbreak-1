@@ -1,0 +1,114 @@
+{
+  "vacancies": [
+    {
+      "company": "S&P Global",
+      "vacancyLink": "https://www.linkedin.com/jobs/search/?currentJobId=3460880023&keywords=frontend%20developer&refresh=true",
+      "missingKnowledge": [
+        "cross-platform and adaptive layout for the latest browsers"
+      ],
+      "status": "React Developer",
+      "lastUpadte": "17.02.2023",
+      "item": 1
+    },
+    {
+      "company": "Knowledge Services",
+      "vacancyLink": "https://www.techjobs.com/jobs/17955412-jr-frontend-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "missingKnowledge": [
+       "jQuery",
+        "Angular"
+      ],
+      "status": "",
+      "lastUpadte":"3w ago",
+      "item": 2
+    },
+
+     {
+      "company": "ATRIA GROUP LLC",
+      "vacancyLink": "https://in.tarta.ai/j/QppDZ4UBvf0LOA5EdX8K1222-front-end-developer-in-carmel-indiana-at-atria-group-llc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+       "missingKnowledge": [
+        "MongoDB",
+        "Angular"
+      ],
+      "status": "",
+      "lastUpadte":"3w ago",
+      "item": 3
+    },
+    {
+      "company": "IFour Technolab",
+      "vacancyLink": "https://www.indeed.com/jobs?q=front+end+developer&l=Bloomington%2C+IN&from=mobRdr&utm_source=%2Fm%2F&utm_medium=redir&utm_campaign=dt&vjk=a0c21f62beeff0c3",
+      "missingKnowledge": [
+        "",
+        ""
+      ],
+      "status": "",
+      "lastUpadte":"",
+      "item": 4
+    },
+    {
+      "company": "Indiana University",
+      "vacancyLink": "https://www.indeed.com/jobs?q=front+end+developer&l=Bloomington%2C+IN&from=mobRdr&utm_source=%2Fm%2F&utm_medium=redir&utm_campaign=dt&vjk=c7cf7d601af05a87",
+      "missingKnowledge": [
+        "",
+        ""
+      ],
+      "status": "",
+      "lastUpadte":"",
+      "item": 5
+    },
+    {
+      "company": "LEADER BANK\n",
+      "vacancyLink": "https://www.glassdoor.com/Job/bloomington-in-front-end-developer-jobs-SRCH_IL.0,14_IC1144789_KO15,34.htm",
+      "missingKnowledge": [
+        "",
+        ""
+      ],
+      "status": "",
+      "lastUpadte":"",
+      "item": 6
+    },
+    {
+      "company": "Cosmic",
+      "vacancyLink": "https://www.workatastartup.com/jobs/43747",
+      "missingKnowledge": [
+        "",
+        ""
+      ],
+      "status": "",
+      "lastUpadte":"",
+      "item": 7
+    },
+    {
+      "company": "Stayflexi",
+      "vacancyLink": "https://www.workatastartup.com/jobs/59295",
+      "missingKnowledge": [
+        "2+ years of experience in UI/UX development",
+        ""
+      ],
+      "status": "",
+      "lastUpadte":"",
+      "item": 8
+    },
+    {
+      "company": "Underdog.io ",
+      "vacancyLink": "https://www.linkedin.com/jobs/search/?currentJobId=3491241513&f_WT=2&geoId=103644278",
+      "missingKnowledge": [
+        "",
+        ""
+      ],
+      "status": "",
+      "lastUpadte":"",
+      "item": 9
+    },
+    {
+      "company": "ford",
+      "vacancyLink": "https://www.linkedin.com/jobs/search/?currentJobId=3492447612&f_WT=2&geoId=103644278",
+      "missingKnowledge": [
+        "",
+        ""
+      ],
+      "status": "",
+      "lastUpadte":"",
+      "item": 10
+    }
+  ]
+}
