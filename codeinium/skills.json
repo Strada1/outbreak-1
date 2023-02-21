@@ -1,4 +1,14 @@
 [
-  { "skill": "react-test-utils", "estimation": 12 },
-  { "skill": "jira", "estimation": 3 }
+  { "skill": "restApi/http-протокол запросы", "estimation": 3 },
+  { "skill": "верстка", "estimation": 30 },
+  { "skill": "адаптивная и кроссбраузерная верстка", "estimation": 10 },
+  { "skill": "тесты", "estimation": 10 },
+  { "skill": "mobx", "estimation": 10 },
+  { "skill": "Ant Design", "estimation": 8 },
+  { "skill": "jira", "estimation": 9 },
+  { "skill": "react native", "estimation": 20 },
+  { "skill": "SCSS/SASS/LESS", "estimation": 10 },
+  { "skill": "styled-components", "estimation": 10 },
+  { "skill": "next.js", "estimation": 30 },
+  { "skill": "server-side rendering", "estimation": 15 }
 ]
