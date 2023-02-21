@@ -1,0 +1,269 @@
+{
+  "vacancies": [
+    {
+      "company": "Итология",
+      "vacancyLink": "https://perm.hh.ru/vacancy/76248542?from=vacancy_search_list&query=frontend",
+      "missingKnowledge": [
+        "уверенные знания React Native",
+        "опыт разработки на IOS/Anroid",
+        "написание тестов"
+      ],
+      "status": "подходит",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "Талан",
+      "vacancyLink": "https://perm.hh.ru/vacancy/73463433?from=vacancy_search_list&query=frontend",
+      "missingKnowledge": [
+        "понимамание архитектуры веб приложений",
+        "работа с препроцессорами",
+        "методология БЭМ",
+        "vue.js?"
+      ],
+      "status": "опасно но стоит попробовать",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "Ростелеком",
+      "vacancyLink": "https://perm.hh.ru/vacancy/77000873?from=vacancy_search_list&query=frontend",
+      "missingKnowledge": [
+        "vue.js",
+        "знание http-протокола",
+        "работа с open api(swagger)",
+        "понимание архитектуры веб приложения"
+      ],
+      "status": "подходит",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "Юникорн",
+      "vacancyLink": 2,
+      "missingKnowledge": [
+        "Effector",
+        "Formik",
+        "Yup",
+        "Axios",
+        "REST архитектура",
+        "ООП",
+        "тесты",
+        "клиент-серверная архитектура"
+      ],
+      "status": "подходит",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "Spectr",
+      "vacancyLink": "https://perm.hh.ru/vacancy/76994558?from=vacancy&hhtmFromLabel=similar_vacancies_sidebar&hhtmFrom=vacancy",
+      "missingKnowledge": [
+        "redux-saga",
+        "next.js",
+        "тесты Cypress",
+        "Ant design",
+        "DRY",
+        "YAGNI",
+        "Server Side Renderign",
+        "Верстка кроссбраузеро адаптивно"
+      ],
+      "status": "подходит",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "Эр-1(R1)",
+      "vacancyLink": "https://perm.hh.ru/vacancy/76918773?from=vacancy_search_list&query=frontend",
+      "missingKnowledge": ["Svetle"],
+      "status": "опасно, но подходит",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "GreenData",
+      "vacancyLink": "https://perm.hh.ru/vacancy/76579597?from=vacancy_search_list&query=frontend",
+      "missingKnowledge": [
+        "Высшее образование",
+        "Mobx",
+        "Компоненты: EssentialJS, BPMN.io, Handsontable, HighchartsJS",
+        "GitLab"
+      ],
+      "status": "подходит",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "Ulteam",
+      "vacancyLink": "https://perm.hh.ru/vacancy/76130823?from=vacancy_search_list&query=frontend",
+      "missingKnowledge": [
+        "отсутсвие опыта с vue.js, angular",
+        "тестирование jest, enzyme",
+        "адаптивная верстка"
+      ],
+      "status": "подходит!",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "2Гис",
+      "vacancyLink": "https://perm.hh.ru/vacancy/77198937?from=vacancy_search_list&query=frontend",
+      "missingKnowledge": ["опыт работы с WebGL/Deck.gl."],
+      "status": "подходит!",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "Рт Мис",
+      "vacancyLink": "https://perm.hh.ru/vacancy/76768308?from=vacancy_search_list&query=frontend",
+      "missingKnowledge": [
+        "Проектирование архитектуры проекта",
+        "GitLab, GitFlow",
+        "ExtJS",
+        "styled-components",
+        "Jira и Confluence"
+      ],
+      "status": "подходит",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "It-work",
+      "vacancyLink": "https://career.habr.com/vacancies/1000120092",
+      "missingKnowledge": [
+        "HTTP",
+        "REST архитектура",
+        "Bootstrap",
+        "Ant design",
+        "тесты Unit, E2E",
+        "SASS/LESS"
+      ],
+      "status": "подходит",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "АльфаСтрахование",
+      "vacancyLink": "https://career.habr.com/vacancies/1000118868",
+      "missingKnowledge": ["Scrum", "CI/CD, Docker, Linux, Java, Vaadin, SQL"],
+      "status": "подходит",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "UseTech",
+      "vacancyLink": "https://career.habr.com/vacancies/1000120215",
+      "missingKnowledge": [
+        "Понимание принципов зрелой инженерной культуры - автоматические тесты, линтеры, CI/CD",
+        "Опыт разработки браузерных приложений со сложным и нестандартным UI. Например: стриминг данных в реальном времени, работа с графикой и видео, WebRTC, браузерные игры. "
+      ],
+      "status": "подходит",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "Sber",
+      "vacancyLink": "https://career.habr.com/vacancies/1000113747",
+      "missingKnowledge": [
+        "опыт создания RIA/SPA",
+        "axios",
+        "HTML5 + CSS3 на близком к отличному уровню",
+        "Backbone, AngularJS, Vue.js и др.",
+        "понимание архитектуры веб-приложений"
+      ],
+      "status": "подходит!",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "Мегафон",
+      "vacancyLink": "https://career.habr.com/vacancies/1000118030",
+      "missingKnowledge": [
+        "HTML/CSS (Responsive, Adaptive)",
+        "ООП, ФП",
+        "Css, flex, grid, БЭМ, ccs-modules "
+      ],
+      "status": "3",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "InfoWatch",
+      "vacancyLink": "https://career.habr.com/vacancies/1000119918",
+      "missingKnowledge": [
+        "SPA",
+        "RESTful API",
+        "умение читать и писать bash скрипты."
+      ],
+      "status": "подходит",
+      "lastUpdate": 2
+    },
+    {
+      "company": "Иннотех",
+      "vacancyLink": "https://career.habr.com/vacancies/1000119649",
+      "missingKnowledge": ["Знание html"],
+      "status": "подходит",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "МТС",
+      "vacancyLink": "https://career.habr.com/vacancies/1000117590",
+      "missingKnowledge": [
+        "работы SSR",
+        "next.js",
+        "KISS, DRY, YAGNI, BDUF, SOLID, APO",
+        "качественная верстка",
+        "умение выстраивать модульную архитектуру с низкой связанностью и высокой связностью (понимание разницы между Coupling и Cohesion)."
+      ],
+      "status": "3",
+      "lastUpdate": 2
+    },
+    {
+      "company": "Glob-com",
+      "vacancyLink": "https://career.habr.com/vacancies/1000099612",
+      "missingKnowledge": ["scss", "next.js", "SPA"],
+      "status": "подходит",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "AAM Системз",
+      "vacancyLink": "https://hh.ru/vacancy/76818426?from=vacancy_search_list&query=react%20frontend%20junior",
+      "missingKnowledge": ["опыт с angular"],
+      "status": "подходит!",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "Skillbox",
+      "vacancyLink": "https://hh.ru/vacancy/77139585?from=vacancy_search_list&query=react%20frontend%20junior",
+      "missingKnowledge": [
+        "next.js",
+        "styled-components",
+        " Jira, Confluence, GSuite",
+        "vercel"
+      ],
+      "status": "подходит",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "Дэстэн партнерс",
+      "vacancyLink": "https://hh.ru/vacancy/76144959?from=vacancy_search_list&query=react%20frontend%20junior",
+      "missingKnowledge": ["Опыт работы с angular, vue, mobX", ""],
+      "status": "3",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "Ascensio System",
+      "vacancyLink": "https://hh.ru/vacancy/77124101?from=vacancy_search_list&query=react%20frontend%20junior",
+      "missingKnowledge": ["Mobx", "SAAS", "Styled-Components, i18next"],
+      "status": "подходит",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "Call to Visit",
+      "vacancyLink": "https://hh.ru/vacancy/77239210?from=vacancy_search_list&query=react%20frontend%20junior",
+      "missingKnowledge": [
+        "Laravel (или Symfony/Zend/CodeIgniter etc.)",
+        "postCss",
+        "php"
+      ],
+      "status": "не подходит, php",
+      "lastUpdate": "20 Feb 2023"
+    },
+    {
+      "company": "EFSOL",
+      "vacancyLink": "https://hh.ru/vacancy/77121231?from=vacancy_search_list&query=react%20frontend%20junior",
+      "missingKnowledge": [
+        "Sass, scss;",
+        "адаптивная и кроссбраузерная верстка",
+        "ReactNative, Mobx, понимание .net6."
+      ],
+      "status": "подходит!",
+      "lastUpdate": "20 Feb 2023"
+    }
+  ]
+}
