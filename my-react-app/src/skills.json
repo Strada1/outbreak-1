@@ -1,0 +1,26 @@
+[
+  {
+    "skill": "jira",
+    "estimation": 4
+  },
+  {
+    "skill": "ajax",
+    "estimation": 6
+  },
+  {
+    "skill": "mobx",
+    "estimation": 9
+  },
+  {
+    "skill": "Redux Saga",
+    "estimation": 4
+  },
+  {
+    "skill": "алгоритмы",
+    "estimation": 10
+  },
+  {
+    "skill": "Next.js",
+    "estimation": 9
+  }
+]
