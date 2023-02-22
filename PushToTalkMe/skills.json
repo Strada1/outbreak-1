@@ -1,0 +1,42 @@
+[
+  {
+    "skill": "NextJS",
+    "estimation": 25
+  },
+  {
+    "skill": "Effector",
+    "estimation": 8
+  },
+  {
+    "skill": "React Native",
+    "estimation": 40
+  },
+  {
+    "skill": "RabbitMQ",
+    "estimation": 15
+  },
+  {
+    "skill": "Storybook",
+    "estimation": 8
+  },
+  {
+    "skill": "Создание Unit-тестов",
+    "estimation": 20
+  },
+  {
+    "skill": "Redux Saga",
+    "estimation": 12
+  },
+  {
+    "skill": "GraphQL",
+    "estimation": 14
+  },
+  {
+    "skill": "mobX",
+    "estimation": 10
+  },
+  {
+    "skill": "Jest",
+    "estimation": 15
+  }
+]

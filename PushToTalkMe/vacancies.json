@@ -9,7 +9,7 @@
   {
     "company": "ООО 1520 СИГНАЛ",
     "vacancyLink": "https://hh.ru/vacancy/76972117?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
-    "missingKnowledge": "React Native, RabbitMQ, Kafka",
+    "missingKnowledge": "React Native, RabbitMQ",
     "status": "Открыта",
     "lastUpdate": "20.02.2023"
   },
@@ -44,7 +44,7 @@
   {
     "company": "ООО Вебинар Технологии",
     "vacancyLink": "https://hh.ru/vacancy/77211104?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
-    "missingKnowledge": "engine.io, Electron",
+    "missingKnowledge": "socket.io",
     "status": "Открыта",
     "lastUpdate": "20.02.2023"
   },
@@ -72,7 +72,7 @@
   {
     "company": "АО Эшелон Технологии",
     "vacancyLink": "https://hh.ru/vacancy/77207112?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
-    "missingKnowledge": "Unit-тесты, TLS",
+    "missingKnowledge": "Unit-тесты",
     "status": "Открыта",
     "lastUpdate": "20.02.2023"
   },
@@ -114,7 +114,7 @@
   {
     "company": "ИП Шевелев Роман Артурович",
     "vacancyLink": "https://hh.ru/vacancy/76940937?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
-    "missingKnowledge": "Создавать UI KIT, babel, docker, nextaJS",
+    "missingKnowledge": "Создавать UI KIT, babel, docker, nextJS",
     "status": "Открыта",
     "lastUpdate": "19.02.2023"
   },
@@ -128,7 +128,7 @@
   {
     "company": "ООО Альянс Реал Эстейт",
     "vacancyLink": "https://hh.ru/vacancy/76734273?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
-    "missingKnowledge": "GraphQL, CI/CD, StoryBook",
+    "missingKnowledge": "GraphQL, StoryBook",
     "status": "Открыта",
     "lastUpdate": "19.02.2023"
   },
@@ -142,14 +142,14 @@
   {
     "company": "ООО Programmatic Group",
     "vacancyLink": "https://hh.ru/vacancy/76716633?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
-    "missingKnowledge": "AJAX, SWR, CORS",
+    "missingKnowledge": "SWR",
     "status": "Открыта",
     "lastUpdate": "19.02.2023"
   },
   {
     "company": "ООО Фирма Инфокрипт",
     "vacancyLink": "https://hh.ru/vacancy/76290173?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
-    "missingKnowledge": "SQL",
+    "missingKnowledge": "",
     "status": "Открыта",
     "lastUpdate": "19.02.2023"
   },
