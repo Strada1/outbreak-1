@@ -1,0 +1,177 @@
+[
+  {
+    "company": "FINCH",
+    "vacancyLink": "https://hh.ru/vacancy/76160335?from=vacancy_search_list&query=frontend",
+    "missingKnowledge": "tyled components/SASS/PostCSS",
+    "status": "check",
+    "lastUpdate": "21/02/23"
+  },
+  {
+    "company": "СБЕР",
+    "vacancyLink": "https://hh.ru/vacancy/76231924?from=vacancy_search_list&query=frontend",
+    "missingKnowledge": "unit test",
+    "status": "check",
+    "lastUpdate": "21/02/23"
+  },
+  {
+    "company": "ITentika",
+    "vacancyLink": "https://hh.ru/vacancy/75946664?from=vacancy_search_list&query=frontend",
+    "missingKnowledge": "UI Kit, playwright",
+    "status": "check",
+    "lastUpdate": "23/02/23"
+  },
+  {
+    "company": "OPEN",
+    "vacancyLink": "https://hh.ru/vacancy/77272653?from=vacancy_search_list&query=frontend",
+    "missingKnowledge": "GitLab CI",
+    "status": "check",
+    "lastUpdate": "23/02/23"
+  },
+  {
+    "company": "IPPON Technologies",
+    "vacancyLink": "https://hh.ru/vacancy/75765634?from=vacancy_search_list&query=frontend",
+    "missingKnowledge": "SCSS, ",
+    "status": "check",
+    "lastUpdate": "23/02/23"
+  },
+  {
+    "company": "Softline",
+    "vacancyLink": "https://hh.ru/vacancy/76650329?from=vacancy_search_list&query=frontend",
+    "missingKnowledge": "SASS/LESS, всех элементов протокола HTTP",
+    "status": "check",
+    "lastUpdate": "23/02/23"
+  },
+  {
+    "company": "Альфа-Банк",
+    "vacancyLink": "https://hh.ru/vacancy/71474734?from=vacancy_search_list&query=frontend",
+    "missingKnowledge": "",
+    "status": "check",
+    "lastUpdate": "23/02/23"
+  },
+  {
+    "company": "Uchi.ru",
+    "vacancyLink": "https://hh.ru/vacancy/76349029?from=vacancy_search_list&query=frontend",
+    "missingKnowledge": "CSS-процессорами, анимация",
+    "status": "check",
+    "lastUpdate": "23/02/23"
+  },
+  {
+    "company": "АО Р-Фарм",
+    "vacancyLink": "https://hh.ru/vacancy/76596570?from=vacancy_search_list&query=frontend",
+    "missingKnowledge": "адаптивная/кроссбраузерная верстка;",
+    "status": "check",
+    "lastUpdate": "23/02/23"
+  },
+  {
+    "company": "Лига Цифровой Экономики",
+    "vacancyLink": "https://hh.ru/vacancy/76160759?from=vacancy_search_list&query=frontend",
+    "missingKnowledge": "Ant Design, CSS (препроцессоры, styled-components)",
+    "status": "check",
+    "lastUpdate": "23/02/23"
+  },
+  {
+    "company": "ООО БИЗНЕС КОННЕКТ",
+    "vacancyLink": "https://hh.ru/vacancy/76156532?from=vacancy_search_list&query=frontend",
+    "missingKnowledge": "SASS, Redux/Saga, gitflow",
+    "status": "check",
+    "lastUpdate": "23/02/23"
+  },
+  {
+    "company": "Юздеск",
+    "vacancyLink": "https://hh.ru/vacancy/76919176?from=vacancy_search_list&query=frontend",
+    "missingKnowledge": "тестирование (TDD, BDD)",
+    "status": "check",
+    "lastUpdate": "23/02/23"
+  },
+  {
+    "company": "АО ФИНАМ",
+    "vacancyLink": "https://hh.ru/vacancy/76144296?from=vacancy_search_list&query=frontend",
+    "missingKnowledge": "grpc, jest",
+    "status": "check",
+    "lastUpdate": "23/02/23"
+  },
+  {
+    "company": "ITACWT",
+    "vacancyLink": "https://hh.ru/vacancy/76989589?from=vacancy_search_list&query=frontend",
+    "missingKnowledge": "",
+    "status": "check",
+    "lastUpdate": "23/02/23"
+  },
+  {
+    "company": "ООО Юнитариус",
+    "vacancyLink": "https://hh.ru/vacancy/76707043?from=vacancy_search_list&query=frontend",
+    "missingKnowledge": "Redux-saga, ramda, yup, Babel, Docker, Nginx;",
+    "status": "check",
+    "lastUpdate": "24/02/23"
+  },
+  {
+    "company": "ООО КАРТИС",
+    "vacancyLink": "https://hh.ru/vacancy/76779412?from=vacancy_search_list&query=%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4",
+    "missingKnowledge": "",
+    "status": "check",
+    "lastUpdate": "24/02/23"
+  },
+  {
+    "company": "Юздеск",
+    "vacancyLink": "https://hh.ru/vacancy/76919176?from=vacancy_search_list&query=%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4",
+    "missingKnowledge": "тестирование (TDD, BDD)",
+    "status": "check",
+    "lastUpdate": "24/02/23"
+  },
+  {
+    "company": "ООО Аспект",
+    "vacancyLink": "https://hh.ru/vacancy/68996022?from=vacancy_search_list&query=%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "Mobx State Tree",
+    "status": "check",
+    "lastUpdate": "24/02/23"
+  },
+  {
+    "company": "ООО Тэктис",
+    "vacancyLink": "https://hh.ru/vacancy/76963274?from=vacancy_search_list&query=%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "кросс-браузерная и мобильная верстка",
+    "status": "check",
+    "lastUpdate": "24/02/23"
+  },
+  {
+    "company": "BI.ZONE Направление Разработка",
+    "vacancyLink": "https://hh.ru/vacancy/77032798?from=vacancy_search_list&query=%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "SASS, DRY, KISS",
+    "status": "check",
+    "lastUpdate": "24/02/23"
+  },
+  {
+    "company": "АО ДОМ.РФ",
+    "vacancyLink": "https://hh.ru/vacancy/54632606?from=vacancy_search_list&query=%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "Stylelint, TSlint, JIRA,Karma/mocha/chai, Cypress,Docker, Kubernetes, Паттерны проектирования",
+    "status": "check",
+    "lastUpdate": "24/02/23"
+  },
+  {
+    "company": "АО Данные – центр обработки и автоматизации",
+    "vacancyLink": "https://hh.ru/vacancy/76528887?from=vacancy_search_list&query=%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "Angular(версия >10),GitLab, CI/CD, SASS/LESS",
+    "status": "check",
+    "lastUpdate": "24/02/23"
+  },
+  {
+    "company": "ООО Оператор Газпром ИД",
+    "vacancyLink": "https://hh.ru/vacancy/69865247?from=vacancy_search_list&query=%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": " Redux+Saga/RTK, React Query, Styled components/Emotion, Опыт написания тестов на Cypress",
+    "status": "check",
+    "lastUpdate": "24/02/23"
+  },
+  {
+    "company": "IEK GROUP",
+    "vacancyLink": "https://hh.ru/vacancy/76733919?from=vacancy_search_list&query=%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "Redux GraphQL",
+    "status": "check",
+    "lastUpdate": "24/02/23"
+  },
+  {
+    "company": "ООО Юнитариус",
+    "vacancyLink": "https://hh.ru/vacancy/76707043?from=vacancy_search_list&query=%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "Redux-saga, effector, mobx, Docker, Nginx, Babel",
+    "status": "check",
+    "lastUpdate": "24/02/23"
+  }
+]
