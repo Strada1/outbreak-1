@@ -1,0 +1,10 @@
+[
+  { "skill": "SASS", "estimation": 3 },
+  { "skill": "Redux-saga", "estimation": 10 },
+  { "skill": "MobX", "estimation": 10 },
+  { "skill": "Redux GraphQL", "estimation": 10 },
+  { "skill": "styled-components", "estimation": 4 },
+  { "skill": "JIRA", "estimation": 4 },
+  { "skill": "Docker", "estimation": 13 },
+  { "skill": "Docker", "estimation": 13 }
+]
