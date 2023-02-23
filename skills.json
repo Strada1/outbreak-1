@@ -1,0 +1,42 @@
+[
+    {
+        "skill": "TypeScript",
+        "estimation": 14
+    },
+    {
+        "skill": "Docker",
+        "estimation": 20
+    },
+    {
+        "skill": "GitLab",
+        "estimation": 5
+    },
+    {
+        "skill": "Webpack",
+        "estimation": 10
+    },
+    {
+        "skill": "WebSockets",
+        "estimation": 11
+    },
+    {
+        "skill": "Figma",
+        "estimation": 4
+    },
+    {
+        "skill": "Jest",
+        "estimation": 20
+    },
+    {
+        "skill": "Умеренное умение верстать адаптивно и кроссбраузерно",
+        "estimation": 3
+    },
+    {
+        "skill": "Sass",
+        "estimation": 1
+    },
+    {
+        "skill": "Желание работать и развиваться",
+        "estimation": 10
+    }
+]
