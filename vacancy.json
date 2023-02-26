@@ -24,8 +24,8 @@
 		"company": "НКО Монета (ООО)",
 		"vacancyLink": "https://hh.ru/vacancy/76325523?from=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
 		"missingKnoweledge": "ООП, DevOps практики (выстраивание непрерывного процесса доставки продукта с автоматизированными критериями приёмки)",
-		"status": "active",
-		"lastUpdate": "17.02.23"
+		"status": "closed",
+		"lastUpdate": "26.02.23"
 	},
 	{
 		"company": "NovaKid ",
@@ -66,15 +66,15 @@
 		"company": "ModelTech",
 		"vacancyLink": "https://hh.ru/vacancy/76151326?from=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
 		"missingKnoweledge": "-",
-		"status": "active",
-		"lastUpdate": "17.02.23"
+		"status": "closed",
+		"lastUpdate": "23.02.23"
 	},
 	{
 		"company": "ООО Итология",
 		"vacancyLink": "https://hh.ru/vacancy/76248542?from=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
 		"missingKnoweledge": "опыт написания тестов Jest, Enzyme",
-		"status": "active",
-		"lastUpdate": ""
+		"status": "closed",
+		"lastUpdate": "25.023.23"
 	},
 	{
 		"company": "iSpring ",
@@ -171,7 +171,7 @@
 		"company": "Lazurit",
 		"vacancyLink": "https://hh.ru/vacancy/76703546?from=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%20react",
 		"missingKnoweledge": "-",
-		"status": "active",
-		"lastUpdate": ""
+		"status": "closed",
+		"lastUpdate": "22.02.23"
 	}
 ]
