@@ -1,0 +1,233 @@
+[
+  {
+    "company": "СБЕРКОРУС",
+    "vacancyLink": "https://hh.ru/vacancy/76865782?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "NextJS, Effector",
+    "status": "Открыта",
+    "lastUpdate": "16.02.2023"
+  },
+  {
+    "company": "ООО 1520 СИГНАЛ",
+    "vacancyLink": "https://hh.ru/vacancy/76972117?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "React Native, RabbitMQ",
+    "status": "Открыта",
+    "lastUpdate": "20.02.2023"
+  },
+  {
+    "company": "СБЕРБАНК",
+    "vacancyLink": "https://hh.ru/vacancy/77211766?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "Storybook",
+    "status": "Открыта",
+    "lastUpdate": "20.02.2023"
+  },
+  {
+    "company": "СБЕРБАНК",
+    "vacancyLink": "https://hh.ru/vacancy/77211141?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "PHP",
+    "status": "Открыта",
+    "lastUpdate": "20.02.2023"
+  },
+  {
+    "company": "СБЕРБАНК",
+    "vacancyLink": "https://hh.ru/vacancy/76231924?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "",
+    "status": "Открыта",
+    "lastUpdate": "20.02.2023"
+  },
+  {
+    "company": "Т1 Консалтинг",
+    "vacancyLink": "https://hh.ru/vacancy/76394210?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "NodeJS",
+    "status": "Открыта",
+    "lastUpdate": "20.02.2023"
+  },
+  {
+    "company": "ООО Вебинар Технологии",
+    "vacancyLink": "https://hh.ru/vacancy/77211104?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "socket.io",
+    "status": "Открыта",
+    "lastUpdate": "20.02.2023"
+  },
+  {
+    "company": "ITentika",
+    "vacancyLink": "https://hh.ru/vacancy/75946664?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "playwright",
+    "status": "Открыта",
+    "lastUpdate": "20.02.2023"
+  },
+  {
+    "company": "Travelmart",
+    "vacancyLink": "https://hh.ru/vacancy/77209546?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "NodeJS, NuxtJS, VueJS",
+    "status": "Открыта",
+    "lastUpdate": "20.02.2023"
+  },
+  {
+    "company": "Enjoypro",
+    "vacancyLink": "https://hh.ru/vacancy/76390139?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "Unit-тесты",
+    "status": "Открыта",
+    "lastUpdate": "20.02.2023"
+  },
+  {
+    "company": "АО Эшелон Технологии",
+    "vacancyLink": "https://hh.ru/vacancy/77207112?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "Unit-тесты",
+    "status": "Открыта",
+    "lastUpdate": "20.02.2023"
+  },
+  {
+    "company": "DeepVoice",
+    "vacancyLink": "https://hh.ru/vacancy/76393849?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "openapi/swagger, docker, postrgresql, nodejs, nextjs(prisma/tailwind)",
+    "status": "Открыта",
+    "lastUpdate": "20.02.2023"
+  },
+  {
+    "company": "Бюро 1440",
+    "vacancyLink": "https://hh.ru/vacancy/76986835?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "Unit-тесты",
+    "status": "Открыта",
+    "lastUpdate": "20.02.2023"
+  },
+  {
+    "company": "АО Группа Компаний ВестЛинк",
+    "vacancyLink": "https://hh.ru/vacancy/76762310?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "",
+    "status": "Открыта",
+    "lastUpdate": "20.02.2023"
+  },
+  {
+    "company": "Мегафон",
+    "vacancyLink": "https://hh.ru/vacancy/77198866?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "Gulp",
+    "status": "Открыта",
+    "lastUpdate": "20.02.2023"
+  },
+  {
+    "company": "ООО Инфоурок",
+    "vacancyLink": "https://hh.ru/vacancy/76116657?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "Redux-Saga, NextJS, GraphQL",
+    "status": "Закрыта",
+    "lastUpdate": "19.02.2023"
+  },
+  {
+    "company": "ИП Шевелев Роман Артурович",
+    "vacancyLink": "https://hh.ru/vacancy/76940937?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "Создавать UI KIT, babel, docker, nextJS",
+    "status": "Открыта",
+    "lastUpdate": "19.02.2023"
+  },
+  {
+    "company": "СБЕР (ООО еАптека)",
+    "vacancyLink": "https://hh.ru/vacancy/77211508?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "",
+    "status": "Открыта",
+    "lastUpdate": "20.02.2023"
+  },
+  {
+    "company": "ООО Альянс Реал Эстейт",
+    "vacancyLink": "https://hh.ru/vacancy/76734273?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "GraphQL, StoryBook",
+    "status": "Открыта",
+    "lastUpdate": "19.02.2023"
+  },
+  {
+    "company": "ООО КлаудФэктори",
+    "vacancyLink": "https://hh.ru/vacancy/76504748?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "mobX, React Native",
+    "status": "Открыта",
+    "lastUpdate": "19.02.2023"
+  },
+  {
+    "company": "ООО Programmatic Group",
+    "vacancyLink": "https://hh.ru/vacancy/76716633?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "SWR",
+    "status": "Открыта",
+    "lastUpdate": "19.02.2023"
+  },
+  {
+    "company": "ООО Фирма Инфокрипт",
+    "vacancyLink": "https://hh.ru/vacancy/76290173?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "",
+    "status": "Открыта",
+    "lastUpdate": "19.02.2023"
+  },
+  {
+    "company": "ООО Онли",
+    "vacancyLink": "https://hh.ru/vacancy/77199799?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "Jest, Kubernetes, Docker, Agile",
+    "status": "Открыта",
+    "lastUpdate": "20.02.2023"
+  },
+  {
+    "company": "more.tv",
+    "vacancyLink": "https://hh.ru/vacancy/72930561?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "Unit-тесты, E2E-тестирование, atomic/бэм/feature slice верстка",
+    "status": "Открыта",
+    "lastUpdate": "19.02.2023"
+  },
+  {
+    "company": "ООО Ньютон Технологии",
+    "vacancyLink": "https://hh.ru/vacancy/76904441?from=vacancy_search_list&query=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": "React Native, Jest, PHP, SQL",
+    "status": "Открыта",
+    "lastUpdate": "19.02.2023"
+  },
+  {
+    "company": "ООО Чек-Ап Онлайн",
+    "vacancyLink": "https://hh.ru/vacancy/77374574?from=vacancy_search_list",
+    "missingKnowledge": "GraphQL",
+    "status": "Открыта",
+    "lastUpdate": "24.02.2023"
+  },
+  {
+    "company": "ООО НЬЮЭРАМЕДИА",
+    "vacancyLink": "https://hh.ru/vacancy/73078575?from=vacancy_search_list",
+    "missingKnowledge": "UI Kit",
+    "status": "Открыта",
+    "lastUpdate": "24.02.2023"
+  },
+  {
+    "company": "ЗАО НОРСИ-ТРАНС",
+    "vacancyLink": "https://hh.ru/vacancy/77068589?from=vacancy_search_list",
+    "missingKnowledge": "",
+    "status": "Открыта",
+    "lastUpdate": "22.02.2023"
+  },
+  {
+    "company": "FINN FLARE",
+    "vacancyLink": "https://hh.ru/vacancy/76104203?from=vacancy_search_list",
+    "missingKnowledge": "",
+    "status": "Открыта",
+    "lastUpdate": "25.02.2023"
+  },
+  {
+    "company": "ШИНСЕРВИС",
+    "vacancyLink": "https://hh.ru/vacancy/77011890?from=vacancy_search_list",
+    "missingKnowledge": "Next.js",
+    "status": "Открыта",
+    "lastUpdate": "25.02.2023"
+  },
+  {
+    "company": "ООО Лаборатория Безопасных Систем",
+    "vacancyLink": "https://hh.ru/vacancy/77206191?from=vacancy_search_list",
+    "missingKnowledge": "",
+    "status": "Открыта",
+    "lastUpdate": "23.02.2023"
+  },
+  {
+    "company": "ООО Ростелеком Информационные Технологии",
+    "vacancyLink": "https://hh.ru/vacancy/76242648?from=vacancy_search_list",
+    "missingKnowledge": "JSP, Jira",
+    "status": "Открыта",
+    "lastUpdate": "22.02.2023"
+  },
+  {
+    "company": "Uniteller",
+    "vacancyLink": "https://hh.ru/vacancy/76220716?from=vacancy_search_list",
+    "missingKnowledge": "Docker",
+    "status": "Открыта",
+    "lastUpdate": "23.02.2023"
+  }
+]
